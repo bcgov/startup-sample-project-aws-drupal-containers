@@ -1,6 +1,6 @@
 
 terraform {
-  source = "git::https://github.com/bcgov/startup-sample-project-aws-drupal-containers-terraform-modules.git//?ref=v0.1"  
+  source = "git::https://github.com/bcgov/startup-sample-project-aws-drupal-containers-terraform-modules.git"  
 }
 
 
